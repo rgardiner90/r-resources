@@ -16,11 +16,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Main Data Science
 
 - [R for Data Science](https://r4ds.had.co.nz/)
-    - Finished
 - [Exploratory Data Analysis with R](https://leanpub.com/exdata)
 - [Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
-    - Finished
-    
 - [Statistical Intference via Data Science](https://moderndive.com/)
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
 - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
@@ -43,6 +40,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - [NLP](https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/)
 - [Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
 - [Duke Saga](https://simplystatistics.org/2018/04/23/what-can-we-learn-from-data-analysis-failures/)
+- [WHy Women Are Flourishing in R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
 
 
 #### Podcasts
@@ -77,6 +75,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 - [Data Visualization](http://socviz.co/index.html#preface)
 - [R Graphics Cookbook](http://www.cookbook-r.com/Graphs/)
+- [Data Visualization Cheet Sheet (KD Nuggets)](https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html)
+
 
 #### Websites
 
@@ -108,25 +108,25 @@ knitr::opts_chunk$set(echo = TRUE)
 - [A/B Testing](https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+- [Broadening Your Statistical Horizons: GLMS](https://bookdown.org/roback/bookdown-bysh/) 
 
 
 
-
-#### Websites
+#### Interesting Stories
 
 - [Difficulty with Measurment](https://www.newyorker.com/magazine/2011/02/14/the-order-of-things)
 - [The Median isn't the Message](https://people.umass.edu/biep540w/pdf/Stephen%20Jay%20Gould.pdf)
 - [Mosiac Effect](https://gcn.com/articles/2014/05/14/fose-mosaic-effect.aspx?m=1)
-
+- [The Monty Hall Problem](https://www.nytimes.com/2008/04/08/science/08monty.html)
+- [Tweets about Navy Armor Problem](https://mobile.twitter.com/ricfulop/status/1101976862325174276?s=21)
+- [Probabilities and SIDS](http://tutorials.iq.harvard.edu/Unmaintained/StatsCrashCourse/Ray_Hill_discussing_Sally_Clark.pdf)
+- [The Hot Hand in Basketball: On the Misperception of Random Sequences](http://www.cs.colorado.edu/~mozer/Teaching/syllabi/7782/readings/gilovich%20vallone%20tversky.pdf)
 
 #### Articles
 
 - [Heteroskedasticity](https://datascienceplus.com/how-to-detect-heteroscedasticity-and-rectify-it/)
-
-- Multi Level Models
-
-    - [Reading List](http://jakewestfall.org/blog/index.php/2015/06/20/reading-list-introduction-to-linear-mixed-models-for-cognitive-scientists/)
-    - [Workshop](http://www.page-gould.com/mlm/aps/)
+- [Multi Level Modeling: Reading List](http://jakewestfall.org/blog/index.php/2015/06/20/reading-list-introduction-to-linear-mixed-models-for-cognitive-scientists/)
+- [Multi Level Workshop](http://www.page-gould.com/mlm/aps/)
     
     
 
