@@ -45,8 +45,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Podcasts
 
-
-
+- DataFramed
+- Not so Standard Deviations
+- Partially Derivative
+- Talking Machines
+- O'Reilly Data Show
+- Becoming a Data Scientist
 
 
 
@@ -85,6 +89,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
+#### Podcasts
+
+- Data Stories
+
 
 
 
@@ -95,7 +103,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Curated Classes
 
 - [Intro to Data Management in R](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
-
+- The R-Podcast
 
 
 
@@ -122,6 +130,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Probabilities and SIDS](http://tutorials.iq.harvard.edu/Unmaintained/StatsCrashCourse/Ray_Hill_discussing_Sally_Clark.pdf)
 - [The Hot Hand in Basketball: On the Misperception of Random Sequences](http://www.cs.colorado.edu/~mozer/Teaching/syllabi/7782/readings/gilovich%20vallone%20tversky.pdf)
 
+
+
 #### Articles
 
 - [Heteroskedasticity](https://datascienceplus.com/how-to-detect-heteroscedasticity-and-rectify-it/)
@@ -131,7 +141,10 @@ knitr::opts_chunk$set(echo = TRUE)
     
 
 
+#### Podcasts
 
+- Linear Digressions
+-Learning Machines 101
 
 
 
