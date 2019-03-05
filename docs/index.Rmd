@@ -58,8 +58,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Programming
 
 - [Advanced R (Programming)](http://adv-r.had.co.nz/)
-    - Attributes
-
 - [R Packages](http://r-pkgs.had.co.nz/) 
 - [Modern R with the Tidyverse](https://b-rodrigues.github.io/modern_R/)
 - [Programming with R](https://swcarpentry.github.io/r-novice-inflammation/)
