@@ -144,7 +144,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Podcasts
 
 - Linear Digressions
--Learning Machines 101
+- Learning Machines 101
 
 
 
