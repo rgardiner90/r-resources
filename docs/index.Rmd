@@ -15,6 +15,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Main Data Science
 
+#### Books
+
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [Exploratory Data Analysis with R](https://leanpub.com/exdata)
 - [Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
@@ -59,6 +61,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Programming
 
+#### Books
+
 - [Advanced R (Programming)](http://adv-r.had.co.nz/)
 - [R Packages](http://r-pkgs.had.co.nz/) 
 - [Modern R with the Tidyverse](https://b-rodrigues.github.io/modern_R/)
@@ -75,6 +79,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ### Data Visualization
+
+#### Books
 
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 - [Data Visualization](http://socviz.co/index.html#preface)
@@ -97,12 +103,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ### Basic R 
+
+#### Books
+
 - [R Cookbook](http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf)
 - [Simple R](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 
 #### Curated Classes
 
 - [Intro to Data Management in R](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
+
+#### Podcasts
+
 - The R-Podcast
 
 
@@ -110,6 +122,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ### Specific Methods
+
+#### Books
 
 - [Text Mining with R](https://www.tidytextmining.com/)
 - [Introduction to Empirical Bayes](https://gumroad.com/l/empirical-bayes)
