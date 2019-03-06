@@ -32,6 +32,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Keras for R](https://blog.rstudio.com/2017/09/05/keras-for-r/)
 - [Real-World Data Science](https://www.slideshare.net/ShirinGlander/realworld-data-science-fraud-detection-customer-churn-predictive-maintenance)
 - [Seeing Theory (Probabilities)](https://seeing-theory.brown.edu/basic-probability/index.html)
+- [R Bloggers](https://www.r-bloggers.com/)
+- [Variance Explained](http://varianceexplained.org/)
 
 
 #### Intersting Stories
@@ -146,21 +148,44 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-### Richard Files
+### Media
 
-- Deep Learning with R
-- Rpraphics tutorial
-- Ploty turorial
-- Ggplot2 presentation by Wickham
-- Times Series Analysis and its Application
-- Ordinal
-- Multinomal
-- Times Series
-- Interactions
-- Categorical Variables
-- Binary outcomes
-- Political Analysis Using R
-- 10 tips for choosing the optimal number of clusters
--	Good intro to Tidy Data and RMarkdown
+Twitter is a surprisingly helpful place!  People are generally very helpful.  I would recommend following the people below and participating in TidyTuesday challenges. 
+    
+    - #TidyTuesday
+    - #rstats
+    - @thomasp85
+    - @kdnuggets
+    - @hmason
+    - @djpatil
+    - @NSSDeviations
+    - @hspter
+    - @kaggle
+    - @hugobowne
+    - @R4DScommunity
+    - @thomas_mock
+    - @robinson_es
+    - @juliasilge
+    - @WeAreRLadies
+    - @dataandme
+    - @StatGarrett
+    - @xieyihui
+    - @Rbloggers
+    - @drob
+    - @hadleywickham
 
+Online Learning Platforms
+
+- DataCamp
+- LinkedIn Learning (formerly Lynda)
+- Udacity
+- Coursera
+- Kaggle
+- Udemy
+
+YouTube Channels
+
+- [TidyTuesday Screencasts by David Robinson](https://www.youtube.com/user/safe4democracy)
+- [Econometrics Academy](https://www.youtube.com/user/econometricsacademy)
+- [Ben Lambert's Videos on Advanced Stats](https://www.youtube.com/user/SpartacanUsuals)
 
