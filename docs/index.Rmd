@@ -207,5 +207,11 @@ YouTube Channels
 
 
 Famous Studies
+
 - [Framingham Heart Study](https://en.m.wikipedia.org/wiki/Framingham_Heart_Study)
 
+
+Other blogs
+
+- [Top 50 Statistics Blogs of 2019](https://www.thebestcolleges.org/rankings/best-statistics-blogs/)
+- [R Blogs](https://r-dir.com/community/blogs.html)
