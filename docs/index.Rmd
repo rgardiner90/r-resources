@@ -160,6 +160,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - [NLP](https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/)
 - [Guidelines for A/B Testing](https://hookedondata.org/guidelines-for-ab-testing/)
 - [10 Guidelines for A/B Testing](https://docs.google.com/presentation/d/19_x0RJqz10ZPCC29IVkp6mDEJiitXglSgkdM4DAKW6Q/mobilepresent?slide=id.g480fdbf3d0_2_28)
+- [Introduction to Statistics for Data Science](https://medium.com/diogo-menezes-borges/introduction-to-statistics-for-data-science-16a188a400ca)
+
 
 #### Podcasts
 
