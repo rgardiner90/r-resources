@@ -38,6 +38,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Variance Explained](http://varianceexplained.org/)
 - [Hooked on Data](https://hookedondata.org/)
 - [Data Science and AI Flash Cards](https://chrisalbon.com/)
+- [R Resources (free courses, books, tutorials, & cheat sheets)](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
 
 
 #### Intersting Stories
@@ -47,6 +48,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Duke Saga](https://simplystatistics.org/2018/04/23/what-can-we-learn-from-data-analysis-failures/)
 - [WHy Women Are Flourishing in R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
 - [Here's Waldo](http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/)
+- [10 Things R can do that might surprise you](https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/) 
 
 
 #### Podcasts
