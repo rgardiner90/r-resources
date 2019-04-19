@@ -96,6 +96,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [The Pudding](https://pudding.cool/)
+- [Economist: Mistakes we've made](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
 
 
 
@@ -137,6 +138,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Broadening Your Statistical Horizons: GLMS](https://bookdown.org/roback/bookdown-bysh/) 
 - [A Language, Not a Letter: Learning Statistics in R](https://ademos.people.uic.edu/)
 - [Lab Notes for Statistics for Social Sciences II](https://bookdown.org/egarpor/SSS2-UC3M/)
+- [Book Down](https://bookdown.org/yihui/bookdown/)
 
 #### Interesting Stories
 
