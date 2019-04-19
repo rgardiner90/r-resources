@@ -32,6 +32,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Websites
 
 - [Keras for R](https://blog.rstudio.com/2017/09/05/keras-for-r/)
+- [H2O Tutorial](http://docs.h2o.ai/h2o-tutorials/latest-stable/index.html)
 - [Real-World Data Science](https://www.slideshare.net/ShirinGlander/realworld-data-science-fraud-detection-customer-churn-predictive-maintenance)
 - [Seeing Theory (Probabilities)](https://seeing-theory.brown.edu/basic-probability/index.html)
 - [R Bloggers](https://www.r-bloggers.com/)
@@ -39,7 +40,9 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Hooked on Data](https://hookedondata.org/)
 - [Data Science and AI Flash Cards](https://chrisalbon.com/)
 - [R Resources (free courses, books, tutorials, & cheat sheets)](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
-
+- [Curated Class](https://datasciencebox.org/hello/overview/) 
+- [Scary Excel Stories](https://github.com/jennybc/scary-excel-stories)
+- [Best Practices for Using Google Sheets in your Data Project](https://matthewlincoln.net/2018/03/26/best-practices-for-using-google-sheets-in-your-data-project.html)
 
 #### Intersting Stories
 
@@ -49,6 +52,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - [WHy Women Are Flourishing in R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
 - [Here's Waldo](http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/)
 - [10 Things R can do that might surprise you](https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/) 
+- [Special Issue of American Statistician on Data Science](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2018.1438699#.XLkrfZNKg_U))
 
 
 #### Podcasts
@@ -130,7 +134,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Books
 
-- [Text Mining with R](https://www.tidytextmining.com/)
+
 - [Introduction to Empirical Bayes](https://gumroad.com/l/empirical-bayes)
 - [A/B Testing](https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
@@ -221,3 +225,16 @@ Other blogs
 
 - [Top 50 Statistics Blogs of 2019](https://www.thebestcolleges.org/rankings/best-statistics-blogs/)
 - [R Blogs](https://r-dir.com/community/blogs.html)
+
+
+### Text Analysis
+
+Websites/Articles
+
+- [Word2Vec](https://github.com/Cyranka/rviz/blob/master/w2vec/w2vec_rstats.R)
+- [Word2Vec  - A baby step in Deep Learning but a giant leap towards NLP](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
+
+
+Books
+
+- [Text Mining with R](https://www.tidytextmining.com/)
